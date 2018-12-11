@@ -1,4 +1,6 @@
-# UBottomSheet
-Bottom sheet that mimics the behaviours and UI of iPhone Maps app.
+# DrawerDemo
+Demo of a bottom drawer that slides in and out.
 
-<img src="UBottomSheet/anim.gif" width="300">
+Unfortunately, doesn't work. But will work if you add this breakpoint.
+
+![Screen Shot](DebugScreenShot.png)
